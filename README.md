@@ -1,7 +1,7 @@
 # Weather Mobile App
 The Weather App is a user-friendly and intuitive mobile application that provides real-time weather information for various cities around the world. With its simple and sleek design, users can easily check the current weather conditions by entering the name of a city.
 
-![image](https://github.com/HaikalE/Weather-Mobile-App/assets/89823572/101ba03c-13e6-4bc8-ae49-655e326bb957 | width=100)
+![](https://github.com/HaikalE/Weather-Mobile-App/assets/89823572/101ba03c-13e6-4bc8-ae49-655e326bb957 | width=100)
 
 ## Key Features
 - City Selection: Enter the name of a city to fetch weather information.
