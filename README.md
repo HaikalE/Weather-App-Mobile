@@ -9,3 +9,16 @@ The Weather App is a user-friendly and intuitive mobile application that provide
 - Responsive Layout: Designed with a responsive LinearLayout to ensure a user-friendly interface across different screen sizes and orientations.
 
 ## Installation
+To use the Weather App, follow these steps to set up the project:
+Clone the repository to your local machine using the following command:
+1. Clone the repository to your local machine using the following command:
+  ```git
+   git clone https://github.com/your-username/your-repository.git
+   ```
+2. Open Android Studio and select "Open an existing project".
+3. Navigate to the location where you cloned the repository and select the project directory.
+4. Wait for Android Studio to build the project and download any necessary dependencies.
+5. Connect your Android device to your computer using a USB cable, or set up an emulator to run the app.
+6. In Android Studio, click on the "Run" button or use the shortcut Shift + F10 to build and run the app on your connected device or emulator.
+   Note: Make sure you have enabled USB debugging on your device or configured the emulator properly before running the app.
+7. The Weather App will be installed and launched on your device or emulator.
