@@ -13,7 +13,7 @@ To use the Weather App, follow these steps to set up the project:
 Clone the repository to your local machine using the following command:
 1. Clone the repository to your local machine using the following command:
   ```git
-   git clone (https://github.com/HaikalE/Weather-Mobile-App.git)
+   git clone https://github.com/HaikalE/Weather-Mobile-App.git
    ```
 2. Open Android Studio and select "Open an existing project".
 3. Navigate to the location where you cloned the repository and select the project directory.
